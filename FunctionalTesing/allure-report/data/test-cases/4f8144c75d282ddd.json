@@ -1,0 +1,98 @@
+{
+  "uid" : "4f8144c75d282ddd",
+  "name" : "\"before all\" hook",
+  "fullName" : "UbiSoft Visual regression.\"before all\" hook",
+  "historyId" : "95574f336407c262c7dcfb2a129cf054",
+  "time" : {
+    "start" : 1546616604595,
+    "stop" : 1546616623785,
+    "duration" : 19190
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /wd/hub/session/922355c286f3046f5b01a33e2f49ac85/url",
+      "time" : {
+        "start" : 1546616604600,
+        "stop" : 1546616623782,
+        "duration" : 19182
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bb19054dde2ff97c",
+        "name" : "Request",
+        "source" : "bb19054dde2ff97c.json",
+        "type" : "application/json",
+        "size" : 52
+      }, {
+        "uid" : "8a8c31e0bf8e289c",
+        "name" : "Response",
+        "source" : "8a8c31e0bf8e289c.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UbiSoft Visual regression"
+  }, {
+    "name" : "testClass",
+    "value" : "UbiSoft Visual regression"
+  }, {
+    "name" : "testMethod",
+    "value" : "\"before all\" hook"
+  }, {
+    "name" : "package",
+    "value" : "UbiSoft Visual regression"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "428ef00e8c6325a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546616481327,
+        "stop" : 1546616506530,
+        "duration" : 25203
+      }
+    }, {
+      "uid" : "e61dd27708e56e63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1546610441001,
+        "stop" : 1546610459437,
+        "duration" : 18436
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4f8144c75d282ddd.json",
+  "parameterValues" : [ ]
+}

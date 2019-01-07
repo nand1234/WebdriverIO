@@ -1,0 +1,23 @@
+{
+    "value": {
+        "body": {
+            "offsetHeight": 5786,
+            "scrollHeight": 5786
+        },
+        "html": {
+            "clientHeight": 699,
+            "clientWidth": 1283,
+            "offsetHeight": 5786,
+            "scrollHeight": 5786,
+            "scrollWidth": 1283
+        },
+        "window": {
+            "innerHeight": 699,
+            "innerWidth": 1283,
+            "orientation": 0,
+            "pixelRatio": 1.25,
+            "screenHeight": 864,
+            "screenWidth": 1536
+        }
+    }
+}

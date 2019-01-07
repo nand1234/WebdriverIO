@@ -1,0 +1,80 @@
+{
+  "uid" : "e61dd27708e56e63",
+  "name" : "\"before all\" hook",
+  "fullName" : "UbiSoft Visual regression.\"before all\" hook",
+  "historyId" : "95574f336407c262c7dcfb2a129cf054",
+  "time" : {
+    "start" : 1546610441001,
+    "stop" : 1546610459437,
+    "duration" : 18436
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /wd/hub/session/6435c6328a7ded680ba7abdfe397292e/url",
+      "time" : {
+        "start" : 1546610441010,
+        "stop" : 1546610459436,
+        "duration" : 18426
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4e7a8435d92f4f6d",
+        "name" : "Request",
+        "source" : "4e7a8435d92f4f6d.json",
+        "type" : "application/json",
+        "size" : 52
+      }, {
+        "uid" : "cd4563ac551da8a3",
+        "name" : "Response",
+        "source" : "cd4563ac551da8a3.json",
+        "type" : "application/json",
+        "size" : 91
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "UbiSoft Visual regression"
+  }, {
+    "name" : "testClass",
+    "value" : "UbiSoft Visual regression"
+  }, {
+    "name" : "testMethod",
+    "value" : "\"before all\" hook"
+  }, {
+    "name" : "package",
+    "value" : "UbiSoft Visual regression"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e61dd27708e56e63.json",
+  "parameterValues" : [ ]
+}

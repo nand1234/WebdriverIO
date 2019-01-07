@@ -1,0 +1,7 @@
+{
+    "state": "success",
+    "sessionId": null,
+    "class": "org.openqa.selenium.remote.Response",
+    "value": "https://assassinscreed.ubisoft.com/game/en-us/home",
+    "status": 0
+}

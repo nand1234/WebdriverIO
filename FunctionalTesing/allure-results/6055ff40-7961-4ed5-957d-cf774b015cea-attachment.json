@@ -1,0 +1,9 @@
+{
+    "message": "POST /session/fafa2025-218e-486a-88cc-e624847ad9c8/execute did not match a known command",
+    "type": "RuntimeError",
+    "seleniumStack": {
+        "type": "UnknownCommand",
+        "message": "The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource.",
+        "orgStatusMessage": "POST /session/fafa2025-218e-486a-88cc-e624847ad9c8/execute did not match a known command"
+    }
+}

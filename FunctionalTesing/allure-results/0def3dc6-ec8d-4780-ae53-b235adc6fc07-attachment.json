@@ -1,0 +1,14 @@
+{
+    "state": "success",
+    "sessionId": null,
+    "class": "org.openqa.selenium.remote.Response",
+    "value": [
+        {
+            "bottom": 571.433349609375,
+            "left": 564.5999755859375,
+            "right": 1251.5999755859375,
+            "top": 185
+        }
+    ],
+    "status": 0
+}
